@@ -1,9 +1,5 @@
 package OasisTask;
 
-/**
- *
- * @author Monideepa Saha
- */
 import java.util.Scanner;
 
 public class OnlineReservation{
